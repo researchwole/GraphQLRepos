@@ -1,0 +1,2 @@
+# GraphQLRepos
+All graphql projects
